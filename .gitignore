@@ -1,2 +1,4 @@
 # venv
 .venv/
+# Carpeta generada por PyCharm
+.idea/
