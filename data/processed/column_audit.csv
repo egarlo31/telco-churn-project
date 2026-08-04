@@ -1,0 +1,22 @@
+,column,dtype,unique_count,possible_role
+0,customerID,str,7043,identifier
+1,gender,str,2,binary categorical
+2,SeniorCitizen,int64,2,binary categorical stored as integer
+3,Partner,str,2,binary categorical
+4,Dependents,str,2,binary categorical
+5,tenure,int64,73,numeric
+6,PhoneService,str,2,binary categorical
+7,MultipleLines,str,3,multiclass categorical
+8,InternetService,str,3,multiclass categorical
+9,OnlineSecurity,str,3,multiclass categorical
+10,OnlineBackup,str,3,multiclass categorical
+11,DeviceProtection,str,3,multiclass categorical
+12,TechSupport,str,3,multiclass categorical
+13,StreamingTV,str,3,multiclass categorical
+14,StreamingMovies,str,3,multiclass categorical
+15,Contract,str,3,multiclass categorical
+16,PaperlessBilling,str,2,binary categorical
+17,PaymentMethod,str,4,multiclass categorical
+18,MonthlyCharges,float64,1585,numeric
+19,TotalCharges,str,6531,numeric stored as text
+20,Churn,str,2,target
