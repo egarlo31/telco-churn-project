@@ -43,3 +43,4 @@ feature_position,feature_name
 41,categorical_pipeline__PaymentMethod_Credit card (automatic)
 42,categorical_pipeline__PaymentMethod_Electronic check
 43,categorical_pipeline__PaymentMethod_Mailed check
+44,binary_passthrough__SeniorCitizen
