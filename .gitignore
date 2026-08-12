@@ -1,4 +1,6 @@
 # venv
 .venv/
-# Carpeta generada por PyCharm
+# Directory make for PyCharm
 .idea/
+# Directory make for cat
+catboost_info/
