@@ -1,0 +1,6 @@
+model
+gaussian_naive_bayes
+logistic_regression
+gradient_boosting
+support_vector_machine
+lightgbm
