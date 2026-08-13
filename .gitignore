@@ -3,7 +3,7 @@
 # Directory make for PyCharm
 .idea/
 # Directory make for cat
-catboost_info/
+notebooks/catboost_info/
 # Files make for python
 __pycache__/
 *.pyc
