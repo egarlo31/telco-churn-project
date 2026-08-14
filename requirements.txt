@@ -1,7 +1,12 @@
-pandas
 numpy
+pandas
 scikit-learn
 joblib
+matplotlib
 jupyter
 ipykernel
 fastapi
+uvicorn
+xgboost
+lightgbm
+catboost
