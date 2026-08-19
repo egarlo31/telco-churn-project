@@ -7,3 +7,5 @@ notebooks/catboost_info/
 # Files make for python
 __pycache__/
 *.pyc
+
+.env
