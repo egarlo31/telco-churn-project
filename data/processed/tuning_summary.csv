@@ -1,0 +1,6 @@
+model,best_cv_f1,best_cv_std,best_params
+logistic_regression,0.6326662691661392,0.0266925889536159,"{'model__solver': 'saga', 'model__dual': False, 'model__class_weight': 'balanced', 'model__C': 0.5}"
+gradient_boosting,0.5954034795045792,0.009316672594198822,"{'model__subsample': 0.7, 'model__n_estimators': 50, 'model__min_samples_split': 2, 'model__min_samples_leaf': 4, 'model__max_depth': 2, 'model__learning_rate': 0.2}"
+support_vector_machine,0.6223391333852537,0.02093401173255545,"{'model__kernel': 'rbf', 'model__gamma': 'scale', 'model__class_weight': 'balanced', 'model__C': 1}"
+gaussian_naive_bayes,0.59648850854488,0.018011591794985793,{'model__var_smoothing': 1e-07}
+lightgbm,0.6336627134325487,0.018237422504939732,"{'model__subsample': 1.0, 'model__num_leaves': 63, 'model__n_estimators': 300, 'model__min_child_samples': 20, 'model__max_depth': 5, 'model__learning_rate': 0.01, 'model__colsample_bytree': 0.7, 'model__class_weight': 'balanced'}"
